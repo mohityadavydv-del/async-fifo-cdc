@@ -1,0 +1,6 @@
+---------------------------------------------
+Wrote 500 words, read back 500 words
+FIFO observed full 137 times during the run
+PASS: all 500 words crossed the async FIFO intact, in order
+---------------------------------------------
+tb/tb_async_fifo.v:146: $finish called at 6604000 (1ps)
